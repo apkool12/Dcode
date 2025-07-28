@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NeoDunggeunmo-Regular.ttf",
+      "sha1": "d2c46e86184297e96ab1064828df7455ab51ce1d"
+    },
+    {
+      "path": "src/assets/fonts/NeoDunggeunmoPro-Regular.ttf",
+      "sha1": "f39b7ceb664d0d198b957644e85f0179c8e61a6b"
+    }
+  ]
+}
