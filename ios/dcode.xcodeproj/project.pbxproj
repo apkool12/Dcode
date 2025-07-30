@@ -11,7 +11,6 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		BCF259EA8D9149A58E5888EC /* NeoDunggeunmo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDC9C0DDBF7848AF9C3CF2ED /* NeoDunggeunmo-Regular.ttf */; };
 		D1B70F985291457E80E8518B /* NeoDunggeunmoPro-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DEF8F893C47F432E8DC5B0FB /* NeoDunggeunmoPro-Regular.ttf */; };
 		EF2CBD0ECAB6CCA9BA568368 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
@@ -26,7 +25,6 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-dcode.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-dcode.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = dcode/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = dcode/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BDC9C0DDBF7848AF9C3CF2ED /* NeoDunggeunmo-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NeoDunggeunmo-Regular.ttf"; path = "../src/assets/fonts/NeoDunggeunmo-Regular.ttf"; sourceTree = "<group>"; };
 		DEF8F893C47F432E8DC5B0FB /* NeoDunggeunmoPro-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NeoDunggeunmoPro-Regular.ttf"; path = "../src/assets/fonts/NeoDunggeunmoPro-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -46,7 +44,6 @@
 		1360146B203A454C901B7D31 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				BDC9C0DDBF7848AF9C3CF2ED /* NeoDunggeunmo-Regular.ttf */,
 				DEF8F893C47F432E8DC5B0FB /* NeoDunggeunmoPro-Regular.ttf */,
 			);
 			name = Resources;
@@ -176,7 +173,6 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				EF2CBD0ECAB6CCA9BA568368 /* PrivacyInfo.xcprivacy in Resources */,
-				BCF259EA8D9149A58E5888EC /* NeoDunggeunmo-Regular.ttf in Resources */,
 				D1B70F985291457E80E8518B /* NeoDunggeunmoPro-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

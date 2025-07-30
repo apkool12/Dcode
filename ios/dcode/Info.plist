@@ -51,7 +51,6 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>NeoDunggeunmo-Regular.ttf</string>
 		<string>NeoDunggeunmoPro-Regular.ttf</string>
 	</array>
 </dict>
